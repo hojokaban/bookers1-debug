@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.indexbody{
+	width: 70%;
+	float: right;
+}
+.sidebar{
+	width: 30%;
+	float:left;
+}
